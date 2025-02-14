@@ -1,0 +1,11 @@
+id = "yuck"
+name = "Yuck"
+description = "Yuck support."
+version = "0.0.1"
+schema_version = 1
+authors = ["Mi-ael <miael.oss.1970@gmail.com>"]
+repository = "https://github.com/mi-ael/zed-yuck-extension"
+
+[grammars.yuck]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-yuck"
+rev = "e877f6ade4b77d5ef8787075141053631ba12318"
