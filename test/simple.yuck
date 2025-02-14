@@ -13,6 +13,7 @@
   :wm-ignore false
   (greeter :text "Hello, " :name "world"))
 
+
 (defwidget greeter [?text name]
   (box :orientation "horizontal"
     :halign "center"
